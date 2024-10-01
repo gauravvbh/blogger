@@ -1,3 +1,13 @@
+On this website, we have an admin panel to add blogs using different categories, see all the blogs that have been published, and also see the emails that have been subscribed to the website. Subsequently, we can remove them if we need them from the admin panel itself.
+
+On the home page which is open to all users there, we can see all the blogs that the admin has published, also we can filter them by the category itself. We can share the blog if we want to.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
